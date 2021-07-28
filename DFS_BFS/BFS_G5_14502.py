@@ -16,8 +16,8 @@ second = 0
 third = 0
 count = 0
 
-for i in n:
-    for j in m:
-        if j == 0:
+for i in range(n):
+    for j in range(m):
+        if graph[i][j] == 0:
             count += 1
 
