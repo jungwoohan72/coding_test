@@ -5,5 +5,6 @@
     <orderEntry type="jdk" jdkName="Python 3.8 (coding_test)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="jungwoohan72.github.io" />
+    <orderEntry type="module" module-name="RL_practice" />
   </component>
 </module>
