@@ -2,7 +2,7 @@ import heapq
 import sys
 from collections import deque
 
-####################### Djikstra #######################
+####################### Shortest_path #######################
 INF = int(1e9)
 
 n, m, k, x = map(int, sys.stdin.readline().split())
